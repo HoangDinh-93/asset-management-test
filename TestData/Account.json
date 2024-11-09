@@ -1,0 +1,18 @@
+{
+  "account_valid": {
+    "username": "annv",
+    "password": "annv@01012024"
+  },
+  "account_invalid": {
+    "username": "invalid",
+    "password": "invalid123"
+  },
+  "account_invalid_password_length": {
+    "username": "annv",
+    "password": "annv"
+  },
+  "account_001": {
+    "username": "hoangd6",
+    "password": "hoangd6@09032001"
+  }
+}

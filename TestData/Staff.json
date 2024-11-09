@@ -1,0 +1,19 @@
+{
+  "staff001": {
+    "firstName": "George",
+    "lastName": "Bush",
+    "dateOfBirth": "09/03/2001",
+    "gender": "Male",
+    "joinedDate": "10/10/2023",
+    "type": "Staff"
+  },
+  "admin001": {
+    "firstName": "Wayne",
+    "lastName": "Bruce",
+    "dateOfBirth": "09/03/2001",
+    "gender": "Male",
+    "joinedDate": "10/10/2023",
+    "type": "Admin",
+    "location": "HCM"
+  }
+}
